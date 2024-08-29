@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ### How to use
 
 1) Print ./ocean/patterns/fish_1.pdf and decorate your fish:
-    ![Scan example](./images/img2.jpg)
+    ![Scan example]()
 
 2) Take a photo of your fish and put it in the ./photos folder
 
@@ -35,7 +35,7 @@ pip install -r requirements.txt
     ```sh
     python main_ocean.py
     ``` 
-    ![Run example](./images/img1.png)
+    ![Run example]()
 
 ### Project structure
 
